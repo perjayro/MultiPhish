@@ -1,4 +1,4 @@
-# Multi_Phishing
+# Multi_Phish
 ## Author: TecnoSolution- https://github.com/perjayro
 ## YT: https://www.youtube.com/c/JayroPeralta
 
@@ -11,7 +11,7 @@ El uso de Multi_Phishing para atacar objetivos sin el consentimiento mutuo previ
 pkg install droplet
 pkg install openssh
 pkg install git
-pkg install crul
+pkg install curl
 pkg install wget
 apt install git php -y
 git clone https://github.com/perjayro/phish.git
