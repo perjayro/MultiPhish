@@ -142,7 +142,7 @@ printf "\e[1;77m | |\ \/ / | || |   | || |     | |  | |   |  ____/ | || \ | | /_
 printf "\e[1;77m | | \__/  | ||  \_/  || |___  | |  | |   | |      | | | || ||___ || | | | \e[0m\n"
 printf "\e[1;77m |_|       |_| \_____/ |_____| |_|  |_|   |_|      |_| |_||_|(___/ |_| |_| v1.7\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by:  @linux_choice \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by:  @TecnoSolution \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m::TecnoSolution no se hace Responsable por el Mal uso de esta Herramienta.. ::\e[0m\n"
 printf "\n"
